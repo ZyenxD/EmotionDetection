@@ -25,7 +25,7 @@ SECRET_KEY = '5luyu^ll=*05rf$_u0hw)7lq&7@&z_xjj1095-x+qzt^mlf_hg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://necasilla.pythonanywhere.com/']
 
 
 # Application definition
